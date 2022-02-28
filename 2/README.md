@@ -34,9 +34,9 @@
 
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
-1. Эмулятор ПЛК - Modbus Slave https://drive.google.com/file/d/1WPwwLbyOo5Um9T6EbHXkCIFiRfIejKCr/view?usp=sharing
-2. Master OPC - https://drive.google.com/file/d/1LLmRXtbd7RHQIFwsJLbtNKbqHpk1gFDM/view?usp=sharing
-3. MasterSCADA 4D - https://drive.google.com/file/d/1f9MKYU7BrWC4ZQ_WjnVfPxZYkgcZVf81/view?usp=sharing
+1. Эмулятор ПЛК - Modbus Slave https://www.modbustools.com/download.html согласно инструкции https://docs.google.com/document/d/1kiTtyQV1EHN5S_Hopq9sAZ8zu2fNbfmPZXmVdzWcDSc/edit?usp=sharing
+2. Master OPC - https://insat.ru/products/?category=1666 согласно инструкции https://docs.google.com/document/d/1CZCTgLDDiIoJ71bQmw-qN8bb7EhrhPHLaTMso9bEOaA/edit?usp=sharing
+3. MasterSCADA 4D - https://masterscada.ru/download4 согласно инструкции https://docs.google.com/document/d/1ouPhPmJ9GnwnXnG1YbKZQMoK7ppOYN9FYDVb4Oh8kGs/edit?usp=sharing
 
 ------
 `Ниже подробно опиши сами задания для студента. Задания содержат текст условий задач, необходимые ссылки, рекомендации, рисунки и другие необходимые материалы. Также здесь можно дополнительно описать формат выполнения заданий, привести шаблон задания. На шаблон можно дать ссылку.`
