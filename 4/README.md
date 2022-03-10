@@ -22,11 +22,11 @@
 ### Инструкция к заданию
 
 1. Установить эмулятор Modbus Slave https://www.modbustools.com/download.html согласно инструкции https://docs.google.com/document/d/1kiTtyQV1EHN5S_Hopq9sAZ8zu2fNbfmPZXmVdzWcDSc/edit?usp=sharing
-2. В Modbus Slave запустить проекты эмулятора ПЛК  https://drive.google.com/file/d/1fr8bIupj_vRiS3eSjTKhSDlDuSv-4jqz/view?usp=sharing https://drive.google.com/file/d/1yU39P-3rJwAvbs0dGU8ONFJI7XIv7L3z/view?usp=sharing
+2. В Modbus Slave запустить проекты эмулятора ПЛК  https://drive.google.com/file/d/1S_z7MT0ZXry3PgJoWmZknxB8Q7Fzfzqt/view?usp=sharing и https://drive.google.com/file/d/10_KNKOFafz-0MOzOaugkHabC3dK3pqA9/view?usp=sharing
 3. Master OPC - https://insat.ru/products/?category=1666 согласно инструкции https://docs.google.com/document/d/1CZCTgLDDiIoJ71bQmw-qN8bb7EhrhPHLaTMso9bEOaA/edit?usp=sharing
-4. Открыть проект OPC сервера  https://drive.google.com/file/d/16dunen9mhpXiVDjHmpt71FOyubvByC8k/view?usp=sharing
+4. Открыть проект OPC сервера  https://drive.google.com/file/d/1kd-Aafr5oBgbZnPD3xsjFiI_IBT9bvtk/view?usp=sharing
 5. MasterSCADA 4D - https://masterscada.ru/download4 согласно инструкции https://docs.google.com/document/d/1ouPhPmJ9GnwnXnG1YbKZQMoK7ppOYN9FYDVb4Oh8kGs/edit?usp=sharing
-6. Открыть проект MasterSCADA 4D  https://drive.google.com/drive/folders/1Ip0NGCAm37RWaSsVMpqdfTwJOCjak53s?usp=sharing
+6. Открыть проект MasterSCADA 4D  https://drive.google.com/drive/folders/1Uloddu4xS088mNdB2BsareeZ7j2futGg?usp=sharing
 7. Выполнить задания 1 и 2
 8. Для проверки домашнего задания преподавателем отправьте ссылку на ваш документ в личном кабинете
 9. Любые вопросы по решению задач задавайте в чате учебной группы
@@ -81,7 +81,8 @@
  
  r. Задвижка 2 закрыта → текст сообщения - Задвижка 2 закрыта
  
-2. Добавить на экран окно архива событий
+2. Добавить окно архива событий
+
 
 ------
 
