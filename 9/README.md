@@ -30,6 +30,7 @@ Simatic WinCC (Windows Control Center) является системой HMI, т
 1. [Дополнительный материал «Подробнее о Simatic панелях»](https://docs.google.com/presentation/d/1_82JoKAFR7mb07eYZWJIldYWWkUP0H9FBENx7d3UoJ4/edit?usp=sharing)
 2. [Дополнительный материал «Расширения для WinCC flexible»](https://docs.google.com/presentation/d/1jASMVZiJzqaPBIqHOdrxyQWNotueaSNLHkZcl3ZK5D4/edit?usp=sharing)
 3. [WinCC](https://support.industry.siemens.com/cs/document/67797298/simatic-wincc-v12-trial-download?dti=0&lc=en-WW)
+4. [Инструкция по установке WinCC](https://docs.google.com/document/d/1T1w7rYufd_u8RXzDMTJZgvqz1lyzFY3CxFOv_gRW9ZI/edit?usp=sharing)
 
 ### Задание 1 (панели Simatic)
 
