@@ -15,7 +15,7 @@ Simatic WinCC (Windows Control Center) является системой HMI, т
 
 ### Инструкция к заданию
 
-1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/11Hz9sZnZFQfNFedRCS9H5hCBDA-AsbVbhKQi2um9Dog/edit?usp=sharing) себе на Google Disk.
+1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1zMiXFVbQfThpDjIDXWCMfFhiItf6xTUbK7sXsEp7NPo/edit?usp=sharing) себе на Google Диск.
 2. В названии файла введите корректное название лекции и вашу фамилию и имя.
 3. Зайдите в «Настройки доступа» и выберите доступ «Просматривать могут все в Интернете, у кого есть ссылка». Ссылка на инструкцию [Как предоставить доступ к файлам и папкам на Google Диске](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop)
 4. Скопируйте текст задания в свой документ.
@@ -31,6 +31,9 @@ Simatic WinCC (Windows Control Center) является системой HMI, т
 2. [Дополнительный материал «Расширения для WinCC flexible»](https://docs.google.com/presentation/d/1jASMVZiJzqaPBIqHOdrxyQWNotueaSNLHkZcl3ZK5D4/edit?usp=sharing)
 3. [WinCC](https://support.industry.siemens.com/cs/document/67797298/simatic-wincc-v12-trial-download?dti=0&lc=en-WW)
 4. [Инструкция по регистрации для WinCC](https://docs.google.com/document/d/1T1w7rYufd_u8RXzDMTJZgvqz1lyzFY3CxFOv_gRW9ZI/edit?usp=sharing)
+5. [Шаблон для домашнего задания](https://docs.google.com/document/d/1zMiXFVbQfThpDjIDXWCMfFhiItf6xTUbK7sXsEp7NPo/edit?usp=sharing)
+
+-----
 
 ### Задание 1 (панели Simatic)
 
@@ -72,15 +75,15 @@ Simatic WinCC (Windows Control Center) является системой HMI, т
 
 ------
 
-### Правила приема работы
+### Правила приёма работы
 
 1. Отправлена ссылка на документ (Google Doc) с выполненным заданием в личном кабинете
-2. Документ размещен на личном Google Disk
+2. Документ размещён на личном Google Диске
 3. К документу настроены права доступа «Просматривать могут все в Интернете, у кого есть ссылка».
 
 ------
 
 ### Критерии оценки
 
-1. Зачет - выполнены все задания, ответы даны в развернутой форме, в выполненных заданиях нет противоречий и нарушения логики
+1. Зачёт - выполнены все задания, ответы даны в развернутой форме, в выполненных заданиях нет противоречий и нарушения логики
 2. На доработку - задание выполнено частично или не выполнено, в логике выполнения заданий есть противоречия, существенные недостатки.
